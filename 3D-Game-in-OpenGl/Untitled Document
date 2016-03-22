@@ -1,0 +1,35 @@
+WIN - Go to opposite corner level changes and win at level 5
+Life - 4 life implemented
+Score - score is implemented
+sound - implemented 
+
+Player functanlities:
+Space - jump;
+Arrow - move;
+click -jump;
+
+screen:
+i- zoomin;
+o-zoomout;
+l- panright;
+k-panleft;
+mouse scrol- zoomin or zoomout
+water moving;
+text rendering;
+image rendering;
+texture;
+
+
+Camera:
+
+v-tower view
+t- top view
+h- helicopter;
+cursor movement - helicopter;
+r- view of rotation;
+b- rotating view;
+a - opposite view;
+
+
+
+
